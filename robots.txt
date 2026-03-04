@@ -1,0 +1,4 @@
+agent: *
+Allow: /
+
+Sitemap: https://main--aem-edge--tpsaravanan.aem.live/sitemap.xml
